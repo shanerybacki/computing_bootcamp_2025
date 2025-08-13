@@ -1,3 +1,5 @@
+Hello World
+
 # DSS Computing Bootcamp 2025
 
 This repository contains the computing bootcamp materials for incoming
